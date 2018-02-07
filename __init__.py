@@ -1,0 +1,1 @@
+from .sphinxtest.test_class import MyAddClass
